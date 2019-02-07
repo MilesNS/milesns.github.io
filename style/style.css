@@ -1,0 +1,31 @@
+body {
+background: url(clouds.jpg);
+font-family:Contemporary;
+}
+@font-face {
+font-family: "Contemporary";
+src: url(Contemporary-Regular.ttf) format("truetype");
+}
+.navigator {
+background-color:white;
+float:left;
+border-radius:12px
+}
+.homeattention {
+color:red;
+}
+.homegdtable {
+background:white;
+border-radius:12px;
+}
+.ytchannel {
+float:left;
+border-radius:12px;
+border-width:2px;
+}
+.bsdlicense {
+background:white;
+border-radius:12px;
+font-family:monospace;
+}
+
