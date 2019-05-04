@@ -7,23 +7,18 @@ font-family: "Contemporary";
 src: url(Contemporary-Regular.ttf) format("truetype");
 }
 .navigator {
-background-color:white;
+background-color:black;
 float:left;
 border-radius:12px
 }
 .homeattention {
 color:red;
 }
-.homegdtable {
-background:white;
+.carousel {
 border-radius:12px;
-}
-.ytchannel {
-float:left;
-border-radius:12px;
-border-width:2px;
-}
-.bsdlicense {
+width:35%;
+height:22.5%;
+}se {
 background:white;
 border-radius:12px;
 font-family:monospace;
