@@ -6,10 +6,8 @@ font-family:Contemporary;
 font-family: "Contemporary";
 src: url(Contemporary-Regular.ttf) format("truetype");
 }
-.navigator {
-background-color:black;
-float:left;
-border-radius:12px
+.roundborder {
+    border-radius:12px;
 }
 .homeattention {
 color:red;
@@ -18,7 +16,8 @@ color:red;
 border-radius:12px;
 width:35%;
 height:22.5%;
-}se {
+}
+.bsdlicense {
 background:white;
 border-radius:12px;
 font-family:monospace;
