@@ -12,10 +12,11 @@ src: url(Contemporary-Regular.ttf) format("truetype");
 .homeattention {
 color:red;
 }
-.carousel {
-border-radius:12px;
-width:35%;
-height:22.5%;
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
 }
 .bsdlicense {
 background:white;
