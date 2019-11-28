@@ -6,11 +6,8 @@ font-family:Contemporary;
 font-family: "Contemporary";
 src: url(Contemporary-Regular.ttf) format("truetype");
 }
-.tscplayer_inline {
-	position:static;
-	margin: 30px;
+.player {
 	width: 852px;
 	height: 480px;
-	z-index:auto;
 }
 
