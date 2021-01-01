@@ -7,7 +7,12 @@ font-family: "Contemporary";
 src: url(Contemporary-Regular.ttf) format("truetype");
 }
 .player {
-	width: 852px;
-	height: 480px;
+	width: 70%;
 }
-
+.bottombar {
+    background: rgb(164,164,164);
+    overflow: hidden;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}

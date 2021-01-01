@@ -23,4 +23,10 @@ background:white;
 border-radius:12px;
 font-family:monospace;
 }
-
+.bottombar {
+    background: rgb(164,164,164);
+    overflow: hidden;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
