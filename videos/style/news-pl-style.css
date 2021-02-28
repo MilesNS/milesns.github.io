@@ -1,0 +1,39 @@
+body {
+background: url(23475894323newsbanner-bg.png);
+color:white;
+font-family:Contemporary;
+}
+@font-face {
+font-family: "Contemporary";
+src: url(Contemporary-Regular.ttf) format("truetype");
+}
+.roundborder {
+    border-radius:12px;
+}
+.vidtable {
+    background:lightgray;
+    color:black;
+    border-radius:12px;
+}
+.homeattention {
+color:red;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.bsdlicense {
+background:white;
+border-radius:12px;
+font-family:monospace;
+}
+.bottombar {
+    background: rgb(164,164,164);
+    color:black;
+    overflow: hidden;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
